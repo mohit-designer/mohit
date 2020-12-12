@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to My Site ⭐!"
+date:   2020-12-12 20:57:17 +0530
+categories: md
+---
+Hi My Name is Mohit Lamhe and  I am from  `Yamuna Nagar` district in Haryana. 
+{% highlight ruby %}
+1. Done Graduation from Fashion Designing Institute Yamuna Nagar 🏨.
+2. Done High School from Yamuna Nagar 🏫.
+3. You Can Know about me in about section ☝.
+{% endhighlight %}
+
