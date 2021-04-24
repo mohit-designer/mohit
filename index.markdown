@@ -1,7 +1,5 @@
 
----
-layout: home
----
+
 
 <image src="./././pics/a.jpeg"></image>
 <image src="./././pics/b.jpeg"></image>
