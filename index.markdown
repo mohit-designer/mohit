@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Gallery 📱
 
 <image src="./././pics/a.jpeg"></image>
 <image src="./././pics/b.jpeg"></image>
