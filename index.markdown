@@ -12,6 +12,6 @@ layout: home
 <image src="./././pics/g.jpeg"></image>
 <image src="./././pics/h.jpeg"></image>
 <image src="./././pics/i.jpeg"></image>
-![factral2](https://user-images.githubusercontent.com/40041498/115964388-eba74f80-a541-11eb-8967-a46451486f01.jpg)
+
 
 
